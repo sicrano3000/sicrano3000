@@ -1,6 +1,6 @@
 ## Olá sou Jonathan Philipe, desenvolvedor Java e professor de Jiu-jitsu!
 
-<div style="text-align: center;">
+<div align="center">
 	<a href="https://github.com/sicrano3000">
 		<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sicrano3000&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 		<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sicrano3000&layout=compact&langs_count=7&theme=dracula"/>
@@ -18,9 +18,11 @@
 
 <div>
 	<a href="https://www.instagram.com/philipe.jonathan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-	<a href="https://www.linkedin.com/in/jonathan-philipe-07043849/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	
-	![Snake animation](https://github.com/sicrano3000/sicrano3000/blob/output/github-contribution-grid-snake.svg)
-	
-	<a href="http://www.jonathanphilipe.com.br" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
+	<a href="https://www.linkedin.com/in/jonathan-philipe-07043849/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>	
+</div>
+
+![Snake animation](https://github.com/sicrano3000/sicrano3000/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+	<a href="http://www.jonathanphilipe.com.br" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>	
 </div>
