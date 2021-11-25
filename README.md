@@ -1,4 +1,8 @@
-## Olá sou Jonathan Philipe, desenvolvedor Java e professor de Jiu-jitsu!
+## 👋🏽 Olá sou Jonathan Philipe
+☕ Desenvolvedor Java<br />
+🥋 Professor de Jiu-jitsu
+
+##
 
 <div align="center">
 	<a href="https://github.com/sicrano3000">
